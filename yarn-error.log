@@ -1,0 +1,27 @@
+Arguments: 
+  /Users/stefanini/.nvm/versions/node/v16.15.1/bin/node /Users/stefanini/.node/corepack/yarn/1.22.15/bin/yarn.js add solc
+
+PATH: 
+  /Users/stefanini/.nvm/versions/node/v16.15.1/bin:/Users/stefanini/.nvm/versions/node/v10.24.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/mongodb/bin:/Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Contents/Home/bin:/Library/Apple/usr/bin:/Users/stefanini/.nvm/versions/node/v10.24.1/bin:/Users/stefanini/Library/Android/sdk/tools:/Users/stefanini/Library/Android/sdk/platform-toolsexport:/Users/stefanini/Library/Android/sdk/tools:/Users/stefanini/Library/Android/sdk/platform-toolsexport
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  16.15.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND atf.intranet.bb.com.br
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
